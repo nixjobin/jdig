@@ -7,7 +7,7 @@
 
 --- Will update soon ---
 
-[Download jdig v2.0 Debian Package](https://github.com/nixjobin/jdig/releases/download/v2.0/jdig_2.0_all.deb)
+[Download jdig v2.0 Debian Package](https://github.com/nixjobin/jdig/releases/download/v2.1/jdig_2.1_all.deb)
 
 ## Usage
     jdig example.com  
