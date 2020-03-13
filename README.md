@@ -1,9 +1,9 @@
 # jdig - The Super tool for a Hosting Support Team
 
-## Author : Jobin Joseph
-## JobinJoseph.com
-## Nixhive.com
-## @NixJobin
+#Author : Jobin Joseph
+#JobinJoseph.com
+#Nixhive.com
+#@NixJobin
 
 ## Installation
 
