@@ -1,6 +1,7 @@
 # jdig - The Super tool for the Hosting Support Team
+[![Download jdig](https://img.shields.io/sourceforge/dm/jdig.svg)](https://sourceforge.net/projects/jdig/files/latest/download)
 
-Author : Jobin Joseph #JobinJoseph.com #Nixhive.com #@NixJobin
+Author : Jobin Joseph  JobinJoseph.com  Nixhive.com @NixJobin
 
 ## Installation Methods
 
