@@ -11,6 +11,8 @@ Author : Jobin Joseph  JobinJoseph.com  Nixhive.com @NixJobin
 ### Binary Installation (Any Operating System)
     wget https://sourceforge.net/projects/jdig/files/jdig/download -O /usr/local/bin/jdig && chmod +x /usr/local/bin/jdig
 
+### Binary Installation (macOS M1 - arm64 )
+    wget https://sourceforge.net/projects/jdig/files/jdig.mac-arm64/download -O /usr/local/bin/jdig && chmod +x /usr/local/bin/jdig
 
 ## Usage
     jdig example.com
